@@ -1,0 +1,9 @@
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\bin\Debug\netstandard2.0\AmigoWallet.OfferService.Model.deps.json
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\bin\Debug\netstandard2.0\AmigoWallet.OfferService.Model.dll
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\bin\Debug\netstandard2.0\AmigoWallet.OfferService.Model.pdb
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\obj\Debug\netstandard2.0\AmigoWallet.OfferService.Model.csproj.CoreCompileInputs.cache
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\obj\Debug\netstandard2.0\AmigoWallet.OfferService.Model.AssemblyInfoInputs.cache
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\obj\Debug\netstandard2.0\AmigoWallet.OfferService.Model.AssemblyInfo.cs
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\obj\Debug\netstandard2.0\AmigoWallet.OfferService.Model.dll
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\obj\Debug\netstandard2.0\AmigoWallet.OfferService.Model.pdb
+D:\projects\Git Repository\Azure\AmigoWallet\AmigoWallet.OfferService.Model\obj\Debug\netstandard2.0\AmigoWallet.OfferService.Model.csprojAssemblyReference.cache
